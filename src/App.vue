@@ -74,7 +74,7 @@
             </p>
           </div>
 
-          <div class="py-2 border-b border-b-gray-400">
+          <div class="p-2 border-b border-b-gray-400">
             <span
               class="text-sm p-2 rounded bg-slate-200 font-bold"
               >Radiograph Report</span
@@ -96,10 +96,10 @@
               nulla esse.
             </p>
           </div>
-          <span class="text-sm font-bold"
+          <span class="p-2 text-sm font-bold"
             >Interpretation</span
           >
-          <p class="text-sm text-justify my-2">
+          <p class="text-sm text-justify p-2">
             Lorem, ipsum dolor sit amet consectetur
             adipisicing elit. Accusamus suscipit ipsam nobis
             a, repellat ullam earum, dolor, amet doloribus
@@ -111,10 +111,10 @@
             voluptatem expedita tenetur error, hic maxime
             ducimus eos.
           </p>
-          <span class="text-sm font-bold"
+          <span class="text-sm font-bold p-2"
             >Recommendations</span
           >
-          <p class="text-sm text-justify my-2">
+          <p class="text-sm text-justify p-2">
             Lorem ipsum dolor sit, amet consectetur
             adipisicing elit. A, est. Rerum, sunt beatae
             numquam architecto incidunt delectus eligendi
