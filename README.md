@@ -1,29 +1,38 @@
 # medical-report
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a medical report application built with Vue.js. It allows users to generate and print medical reports efficiently.
 
-## Recommended IDE Setup
+## Getting Started
+### Prerequisites
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Node.js
+npm (Node Package Manager)
 
-## Customize configuration
+### Installation
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1.Clone the repository:
 
-## Project Setup
+```sh
+git clone https://github.com/yourusername/medical-report.git
+cd medical-report
+```
+
+2.Install dependencies:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Running the Application
+
+To start the development server, run:
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Usage
 
-```sh
-npm run build
-```
+### Generating a PDF
+
+To generate a PDF of the report, use the browser’s print functionality. Press Ctrl + P (or Cmd + P on Mac) and select “Save as PDF” as the destination.
