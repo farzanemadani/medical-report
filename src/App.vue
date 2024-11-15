@@ -201,7 +201,7 @@ onMounted(() => {
     imageGrid.appendChild(img);
 
     if (
-      (index + 1) % 10 === 0 &&
+      (index + 1) % 8 === 0 &&
       index !== images.length - 1
     ) {
       let newRow = document.createElement('tr');
